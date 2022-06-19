@@ -6,7 +6,7 @@
   <link href="https://legendgod.ml/atom.xml" rel="self"/>
   
   <link href="https://legendgod.ml/"/>
-  <updated>2022-06-19T11:52:08.943Z</updated>
+  <updated>2022-06-19T12:15:18.602Z</updated>
   <id>https://legendgod.ml/</id>
   
   <author>
@@ -21,15 +21,18 @@
     <link href="https://legendgod.ml/2022/06/09/test/"/>
     <id>https://legendgod.ml/2022/06/09/test/</id>
     <published>2022-06-09T11:51:00.000Z</published>
-    <updated>2022-06-19T11:52:08.943Z</updated>
+    <updated>2022-06-19T12:15:18.602Z</updated>
     
-    <content type="html"><![CDATA[<p>111</p>]]></content>
+    <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;">    <iframe style="        position: absolute;         width: 100%;         height: 100%;         left: 0; top: 0;"         src="//player.bilibili.com/player.html?aid=80181162&bvid=BV1qJ41147r7&cid=137214952&page=1&high_quality=1"         scrolling="no"         border="0"         frameborder="no"         framespacing="0"         allowfullscreen="true">    </iframe></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;111&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;div style=&quot;position: relative; padding: 30% 45%;&quot;&gt;
+    &lt;iframe style=&quot;
+        position: absolute; 
+        width: 100%; 
+        height: 1</summary>
       
     
     
