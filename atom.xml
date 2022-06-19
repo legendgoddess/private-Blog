@@ -6,7 +6,7 @@
   <link href="https://legendgod.ml/atom.xml" rel="self"/>
   
   <link href="https://legendgod.ml/"/>
-  <updated>2022-06-19T12:19:07.329Z</updated>
+  <updated>2022-06-19T12:26:41.036Z</updated>
   <id>https://legendgod.ml/</id>
   
   <author>
@@ -21,18 +21,18 @@
     <link href="https://legendgod.ml/2022/06/09/test/"/>
     <id>https://legendgod.ml/2022/06/09/test/</id>
     <published>2022-06-09T11:51:00.000Z</published>
-    <updated>2022-06-19T12:19:07.329Z</updated>
+    <updated>2022-06-19T12:26:41.036Z</updated>
     
-    <content type="html"><![CDATA[<!-- vlog模块 --><div style="position: relative; padding: 30% 45%;">    <iframe style="        src="//player.bilibili.com/player.html?aid=80181162&bvid=BV1qJ41147r7&cid=137214952&page=1&high_quality=1">    </iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;">    <iframe style="        position: absolute;         width: 100%;         height: 100%;         left: 0; top: 0;"         src="//player.bilibili.com/player.html?aid=80181162&bvid=BV1qJ41147r7&cid=137214952&page=1&high_quality=1"         scrolling="no"         border="0"         frameborder="no"         framespacing="0"         allowfullscreen="true">    </iframe></div><p>具体语法是：把那个 $\tt src$ 改成自己的分享连接</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">&lt;div style=<span class="string">&quot;position: relative; padding: 30% 45%;&quot;</span>&gt;</span><br><span class="line">    &lt;iframe style=<span class="string">&quot;</span></span><br><span class="line"><span class="string">        position: absolute; </span></span><br><span class="line"><span class="string">        width: 100%; </span></span><br><span class="line"><span class="string">        height: 100%; </span></span><br><span class="line"><span class="string">        left: 0; top: 0;&quot;</span> </span><br><span class="line">        src=<span class="string">&quot;//player.bilibili.com/player.html?aid=80181162&amp;bvid=BV1qJ41147r7&amp;cid=137214952&amp;page=1&amp;high_quality=1&quot;</span> </span><br><span class="line">        scrolling=<span class="string">&quot;no&quot;</span> </span><br><span class="line">        border=<span class="string">&quot;0&quot;</span> </span><br><span class="line">        frameborder=<span class="string">&quot;no&quot;</span> </span><br><span class="line">        framespacing=<span class="string">&quot;0&quot;</span> </span><br><span class="line">        allowfullscreen=<span class="string">&quot;true&quot;</span>&gt;</span><br><span class="line">    &lt;/iframe&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>如果要内联 $\tt pdf$ 语法是：吧那个 $\tt xxx$ 改成名字就好了。</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;embed src=<span class="string">&quot;/image/xxx.pdf&quot;</span> type=<span class="string">&quot;application/pdf&quot;</span> style=<span class="string">&quot;overflow: auto; width: 100%; height: 400px&quot;</span>/&gt;&#x27;</span><br></pre></td></tr></table></figure><embed src="/image/remind-ds1.pdf" type="application/pdf" style="overflow: auto; width: 100%; height: 400px"/>]]></content>
     
     
       
       
-    <summary type="html">&lt;!-- vlog模块 --&gt;
-
-&lt;div style=&quot;position: relative; padding: 30% 45%;&quot;&gt;
+    <summary type="html">&lt;div style=&quot;position: relative; padding: 30% 45%;&quot;&gt;
     &lt;iframe style=&quot;
-        src=&quot;//player.bilibili.com/player.html?aid=</summary>
+        position: absolute; 
+        width: 100%; 
+        height: 1</summary>
       
     
     
